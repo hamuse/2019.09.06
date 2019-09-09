@@ -1,4 +1,4 @@
-package com.ban.web.command;
+package com.bank.web.command;
 
 import java.io.IOException;
 

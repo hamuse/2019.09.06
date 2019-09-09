@@ -1,10 +1,10 @@
 package com.bank.domains;
 
 import lombok.Data;
-import lombok.ToString;
+
 
 @Data
-@ToString
+
 public class EmployeeBean extends MemberBean {
   /**
 	 * 
